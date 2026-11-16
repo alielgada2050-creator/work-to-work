@@ -1,0 +1,10 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_permit_reader,permit reader,model_alasas_license_permit,group_reader,1,0,0,0
+access_permit_operator,permit operator,model_alasas_license_permit,group_operator,1,1,1,0
+access_permit_manager,permit manager,model_alasas_license_permit,group_manager,1,1,1,1
+access_lab_reader,lab reader,model_alasas_license_lab,group_reader,1,0,0,0
+access_lab_operator,lab operator,model_alasas_license_lab,group_operator,1,1,1,0
+access_lab_manager,lab manager,model_alasas_license_lab,group_manager,1,1,1,1
+access_closure_reader,closure reader,model_alasas_license_closure,group_reader,1,0,0,0
+access_closure_operator,closure operator,model_alasas_license_closure,group_operator,1,1,1,0
+access_closure_manager,closure manager,model_alasas_license_closure,group_manager,1,1,1,1

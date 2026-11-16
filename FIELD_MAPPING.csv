@@ -1,0 +1,20 @@
+HTML_field,Odoo_field,Notes
+permitNo,name,Required; review duplicates within each company
+asas,asas_reference,Original contractor reference
+scheme,scheme,Keep as text
+office,office,Office
+district,district,District
+street,street,Street
+startDate,date_start,ISO date; validate
+endDate,date_end,ISO date; validate
+lat,latitude,Review coordinates before marking verified
+lng,longitude,Review coordinates before marking verified
+lengthM,length_m,Nonnegative
+widthM,width_m,Nonnegative
+depthM,depth_m,Nonnegative
+consState,consultant_status,Text only; not approval
+centerState,center_status,Text only; not approval
+notes,notes,Review content
+cat,state,Manual mapping required; never auto-approve closed records
+pdfUrl,,Download and attach original file with authorized access
+labState,,Create lab report with evidence; do not infer a passed result

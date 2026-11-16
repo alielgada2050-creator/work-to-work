@@ -1,0 +1,1 @@
+<odoo noupdate="1"><record id="demo_permit" model="alasas.license.permit"><field name="name">DEMO-ONLY-001</field><field name="asas_reference">TEST-001</field><field name="office">مكتب تجريبي</field><field name="district">حي تجريبي</field><field name="notes">بيانات اختبار مصطنعة؛ ليست معاملة فعلية.</field></record></odoo>

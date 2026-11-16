@@ -1,0 +1,11 @@
+{
+  "python_syntax_files": 6,
+  "xml_parse_files": 4,
+  "manifest_paths": "PASS",
+  "access_rows": 9,
+  "local_xml_references": "PASS",
+  "odoo_installed": false,
+  "runtime_tests": "NOT RUN: no Odoo server/database",
+  "deployment": "NOT DEPLOYED",
+  "created": "2026-11-16"
+}
